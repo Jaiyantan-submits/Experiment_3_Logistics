@@ -110,6 +110,17 @@ contract LuxurySupplyChain {
 4. The contract is now live and ready for registering products, transferring ownership, and verification.
 
 
+# Output:
+
+![image](https://github.com/user-attachments/assets/3794ba00-94f4-409d-8490-87c6d2ca58de)
+
+![image](https://github.com/user-attachments/assets/e1229a2a-db1e-4bdb-a16a-a18106fe3807)
+
+![image](https://github.com/user-attachments/assets/5d3c9798-c34a-4821-812d-d7403b820b9e)
+
+![image](https://github.com/user-attachments/assets/9e8172d4-9036-4434-bb1e-b4d17dcbb296)
+
+
 # High-Level Overview:
 Helps prevent counterfeit luxury goods.
 
